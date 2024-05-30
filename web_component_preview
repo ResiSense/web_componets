@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>web_component_preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="../style/human_practice_profile.css">
+</head>
+
+<body>
+  <div class="human_practice_profile">
+    <div class="human_practice_profile_border">
+      <image class="human_practice_profile_icon" src="../images/cat_meme.jfif">
+        <div class="human_practice_profile_Professor-Margaret-Ip_overlayer">
+          <div class="human_practice_profile_Professor-Margaret-Ip_overlayer_inside_box">
+
+          
+          <p>
+            Professor Ip is the Chairperson of the Department of Microbiology at The Chinese University of Hong Kong.
+            She is an expert in Clinical Microbiology and Infection and is a renowned member of various
+            Antibiotics-related committees.</p>
+          <p>
+            During an interview with Prof. Margaret Ip, we gained a comprehensive understanding of the current situation
+            of antibiotic resistance in Hong Kong and the corresponding detection methods. We discussed the various
+            genome analysis methods being used in hospitals and the challenges faced by frontline doctors. DNA
+            sequencing with protein analysis is the most common way to detect antibiotic resistance genes, but it is
+            expensive, especially in developing countries. It requires a lab expert and a large machine to analyze. We
+            also discussed the sensitivity and stability of the detecting targets, and Prof. Ip suggested that DNA is
+            more stable and sensitive than detecting protein or toxin produced by bacteria only. We received positive
+            feedback from Prof. Ip regarding our project to detect antibiotic-resistant genes with a point-of-care
+            device. She suggested that we detect multiple genes in one test for the sake of sensitivity and accuracy due
+            to the occurrence of multiple genes in bacteria. Moreover, she emphasized that our point-of-care device
+            should be cheaper and faster than DNA sequencing techniques currently used.
+          </p>
+          <p>
+          We plan to detect desired DNA for checking antibiotic-resistant bacteria (targeted bacteria). Protein and
+          toxin will be our alternative if the DNA sensing approach does not work in our web lab.
+
+          </p>
+          <image class="human_practice_profile_Professor-Margaret-Ip_pic" src="../images/360_F_300330755_t9672jb5qy7gRtKWQg9jvILrkvKSH3m0.jpg"> 
+        </div>
+        </div>
+    </div>
+  </div>
+</body>
+
+</html>
