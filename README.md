@@ -1,2 +1,2 @@
-# 🧬 [ResiSense.github.web_components](https://ResiSense.github.io
+# 🧬 [web_componets](https://web_componets)
 )
